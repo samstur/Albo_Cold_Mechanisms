@@ -1,0 +1,728 @@
+egg_rep_num,egg_count,parental_cage_num,date_collected,date_acc_start,date_CS,days_postoviposition,diapause_treat,acc_treat,CS_treat,totallivehatchnum,livehatchrate
+1,50,3,5-Jun-24,15-Jun-24,15-Jun-24,11,Diapause,Before Acclimation,Control,47,0.94
+2,24,3,5-Jun-24,15-Jun-24,15-Jun-24,11,Diapause,Before Acclimation,-9,2,0.083333333
+3,25,3,5-Jun-24,15-Jun-24,15-Jun-24,11,Diapause,Before Acclimation,-9,7,0.28
+4,25,3,5-Jun-24,16-Jun-24,1-Jul-24,12,Diapause,Warm Acclimated (15d),Control,25,1
+5,40,3,5-Jun-24,16-Jun-24,1-Jul-24,12,Diapause,Cold Acclimated (15d),Control,36,0.9
+6,38,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,Control,34,0.894736842
+7,41,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,Control,39,0.951219512
+8,33,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,Control,29,0.878787879
+9,43,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,1,0.023255814
+10,32,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+11,57,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+12,61,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,1,0.016393443
+13,36,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,1,0.027777778
+14,24,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+15,44,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,38,0.863636364
+16,34,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,33,0.970588235
+17,34,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,33,0.970588235
+18,25,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,2,0.08
+19,34,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,2,0.058823529
+20,44,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,10,0.227272727
+21,53,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,4,0.075471698
+22,45,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,32,0.711111111
+23,22,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,19,0.863636364
+24,38,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,33,0.868421053
+25,46,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,32,0.695652174
+26,38,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,30,0.789473684
+27,32,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,26,0.8125
+28,36,1,5-Jun-24,16-Jun-24,1-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,27,0.75
+29,51,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,Control,49,0.960784314
+30,25,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,Control,24,0.96
+31,44,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,Control,43,0.977272727
+32,38,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+33,22,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+34,38,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+35,20,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+36,44,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+37,35,1,5-Jun-24,15-Jun-24,15-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+38,52,3,6-Jun-24,17-Jun-24,17-Jun-24,12,Diapause,Before Acclimation,-11,3,0.057692308
+39,61,3,6-Jun-24,17-Jun-24,17-Jun-24,12,Diapause,Before Acclimation,-11,0,0
+40,30,3,6-Jun-24,17-Jun-24,17-Jun-24,12,Diapause,Before Acclimation,-11,0,0
+41,41,3,6-Jun-24,16-Jun-24,1-Jul-24,11,Diapause,Warm Acclimated (15d),-9,29,0.707317073
+42,39,3,6-Jun-24,16-Jun-24,1-Jul-24,11,Diapause,Warm Acclimated (15d),-9,29,0.743589744
+43,57,3,6-Jun-24,16-Jun-24,1-Jul-24,11,Diapause,Cold Acclimated (15d),-9,56,0.98245614
+44,24,3,6-Jun-24,16-Jun-24,1-Jul-24,11,Diapause,Cold Acclimated (15d),-9,22,0.916666667
+45,21,3,6-Jun-24,16-Jun-24,1-Jul-24,11,Diapause,Warm Acclimated (15d),Control,20,0.952380952
+46,25,3,6-Jun-24,16-Jun-24,1-Jul-24,11,Diapause,Warm Acclimated (15d),Control,25,1
+47,36,3,6-Jun-24,16-Jun-24,1-Jul-24,11,Diapause,Cold Acclimated (15d),Control,34,0.944444444
+48,49,3,6-Jun-24,16-Jun-24,1-Jul-24,11,Diapause,Cold Acclimated (15d),Control,47,0.959183673
+49,22,4,6-Jun-24,18-Jun-24,3-Jul-24,13,Diapause,Warm Acclimated (15d),-11,2,0.090909091
+50,26,4,6-Jun-24,18-Jun-24,3-Jul-24,13,Diapause,Warm Acclimated (15d),-11,0,0
+51,24,4,6-Jun-24,18-Jun-24,3-Jul-24,13,Diapause,Cold Acclimated (15d),-11,21,0.875
+52,28,4,6-Jun-24,18-Jun-24,3-Jul-24,13,Diapause,Cold Acclimated (15d),-11,23,0.821428571
+53,24,4,6-Jun-24,17-Jun-24,17-Jun-24,12,Diapause,Before Acclimation,Control,23,0.958333333
+54,31,4,6-Jun-24,17-Jun-24,17-Jun-24,12,Diapause,Before Acclimation,Control,30,0.967741935
+55,28,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,-11,0,0
+56,36,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,-11,0,0
+57,22,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,-11,0,0
+58,37,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,-11,0,0
+59,32,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,-11,0,0
+60,23,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,-11,0,0
+61,33,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,Control,33,1
+62,40,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,Control,38,0.95
+63,24,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,Control,24,1
+64,42,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,Control,40,0.952380952
+65,36,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Warm Acclimated (15d),-11,0,0
+66,41,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Warm Acclimated (15d),-11,0,0
+67,26,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Warm Acclimated (15d),-11,0,0
+68,36,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Warm Acclimated (15d),-11,0,0
+69,43,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Warm Acclimated (15d),-11,0,0
+70,40,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Warm Acclimated (15d),Control,39,0.975
+71,37,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Warm Acclimated (15d),Control,36,0.972972973
+72,47,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Cold Acclimated (15d),-11,16,0.340425532
+73,48,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Cold Acclimated (15d),-11,18,0.375
+74,24,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Cold Acclimated (15d),-11,11,0.458333333
+75,27,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Cold Acclimated (15d),-11,10,0.37037037
+76,25,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Cold Acclimated (15d),-11,7,0.28
+77,30,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Cold Acclimated (15d),Control,30,1
+78,56,1,6-Jun-24,18-Jun-24,3-Jul-24,13,Non-diapause,Cold Acclimated (15d),Control,54,0.964285714
+79,29,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,-11,0,0
+80,34,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,-11,0,0
+81,40,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,-11,0,0
+82,33,1,6-Jun-24,17-Jun-24,17-Jun-24,12,Non-diapause,Before Acclimation,-11,0,0
+83,35,4,7-Jun-24,17-Jun-24,17-Jun-24,11,Diapause,Before Acclimation,-11,0,0
+84,48,4,7-Jun-24,17-Jun-24,17-Jun-24,11,Diapause,Before Acclimation,-11,0,0
+85,28,4,7-Jun-24,17-Jun-24,17-Jun-24,11,Diapause,Before Acclimation,-11,0,0
+86,43,4,7-Jun-24,17-Jun-24,17-Jun-24,11,Diapause,Before Acclimation,-11,0,0
+87,38,4,7-Jun-24,17-Jun-24,17-Jun-24,11,Diapause,Before Acclimation,Control,34,0.894736842
+88,47,4,7-Jun-24,17-Jun-24,17-Jun-24,11,Diapause,Before Acclimation,Control,46,0.978723404
+89,56,4,7-Jun-24,17-Jun-24,17-Jun-24,11,Diapause,Before Acclimation,Control,55,0.982142857
+90,29,4,7-Jun-24,17-Jun-24,17-Jun-24,11,Diapause,Before Acclimation,Control,27,0.931034483
+91,28,4,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Warm Acclimated (15d),Control,28,1
+92,26,4,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Warm Acclimated (15d),Control,26,1
+93,60,4,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Warm Acclimated (15d),-11,0,0
+94,55,4,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Warm Acclimated (15d),-11,3,0.054545455
+95,53,4,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Warm Acclimated (15d),-11,0,0
+96,40,4,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Cold Acclimated (15d),-11,38,0.95
+97,22,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Cold Acclimated (15d),-11,19,0.863636364
+98,36,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Cold Acclimated (15d),-11,30,0.833333333
+99,36,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Cold Acclimated (15d),-11,30,0.833333333
+100,32,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Cold Acclimated (15d),Control,31,0.96875
+101,39,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Cold Acclimated (15d),Control,38,0.974358974
+102,39,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Cold Acclimated (15d),Control,38,0.974358974
+103,38,3,7-Jun-24,19-Jun-24,19-Jun-24,13,Diapause,Before Acclimation,-9,4,0.105263158
+104,56,3,7-Jun-24,19-Jun-24,19-Jun-24,13,Diapause,Before Acclimation,-9,8,0.142857143
+105,55,3,7-Jun-24,19-Jun-24,19-Jun-24,13,Diapause,Before Acclimation,-9,6,0.109090909
+106,24,3,7-Jun-24,19-Jun-24,19-Jun-24,13,Diapause,Before Acclimation,-9,1,0.041666667
+107,38,3,7-Jun-24,19-Jun-24,19-Jun-24,13,Diapause,Before Acclimation,-9,12,0.315789474
+108,22,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Warm Acclimated (15d),Control,20,0.909090909
+109,39,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Warm Acclimated (15d),Control,38,0.974358974
+110,64,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Warm Acclimated (15d),-11,0,0
+111,29,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Warm Acclimated (15d),-11,1,0.034482759
+112,48,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Cold Acclimated (15d),-11,41,0.854166667
+113,48,3,7-Jun-24,18-Jun-24,3-Jul-24,12,Diapause,Cold Acclimated (15d),Control,48,1
+114,31,3,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),-9,27,0.870967742
+115,31,3,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),-9,25,0.806451613
+116,42,3,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),-9,34,0.80952381
+117,63,3,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),-9,38,0.603174603
+118,44,3,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),-9,32,0.727272727
+119,41,3,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),-9,41,1
+120,51,3,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),-9,47,0.921568627
+121,39,3,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),-9,38,0.974358974
+122,20,3,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),-9,20,1
+123,54,3,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),-9,54,1
+124,25,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,23,0.92
+125,45,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,40,0.888888889
+126,32,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,29,0.90625
+127,47,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+128,60,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,1,0.016666667
+129,30,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+130,32,2,6-Jun-24,16-Jun-24,1-Jul-24,11,Non-diapause,Warm Acclimated (15d),-9,2,0.0625
+131,34,2,6-Jun-24,16-Jun-24,1-Jul-24,11,Non-diapause,Warm Acclimated (15d),-9,7,0.205882353
+132,38,2,6-Jun-24,16-Jun-24,1-Jul-24,11,Non-diapause,Warm Acclimated (15d),-9,6,0.157894737
+133,22,2,6-Jun-24,16-Jun-24,1-Jul-24,11,Non-diapause,Warm Acclimated (15d),-9,3,0.136363636
+134,23,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,21,0.913043478
+135,33,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,31,0.939393939
+136,23,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,20,0.869565217
+137,52,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,25,0.480769231
+138,32,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,8,0.25
+139,37,2,7-Jun-24,18-Jun-24,3-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,14,0.378378378
+140,43,2,6-Jun-24,16-Jun-24,1-Jul-24,11,Non-diapause,Cold Acclimated (15d),-9,34,0.790697674
+141,42,2,6-Jun-24,16-Jun-24,1-Jul-24,11,Non-diapause,Cold Acclimated (15d),-9,29,0.69047619
+142,46,2,6-Jun-24,16-Jun-24,1-Jul-24,11,Non-diapause,Cold Acclimated (15d),Control,45,0.97826087
+143,42,2,6-Jun-24,16-Jun-24,1-Jul-24,11,Non-diapause,Cold Acclimated (15d),-9,36,0.857142857
+144,23,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),Control,23,1
+145,24,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),Control,24,1
+146,27,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),Control,23,0.851851852
+147,31,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),-9,14,0.451612903
+148,55,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),-9,39,0.709090909
+149,31,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Warm Acclimated (15d),-9,19,0.612903226
+150,22,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),Control,22,1
+151,26,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),Control,24,0.923076923
+152,32,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),Control,32,1
+153,39,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),-9,37,0.948717949
+154,20,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),-9,20,1
+155,24,5,8-Jun-24,20-Jun-24,5-Jul-24,13,Diapause,Cold Acclimated (15d),-9,23,0.958333333
+156,20,6,8-Jun-24,19-Jun-24,19-Jun-24,12,Diapause,Before Acclimation,-9,2,0.1
+157,41,6,8-Jun-24,19-Jun-24,19-Jun-24,12,Diapause,Before Acclimation,-9,7,0.170731707
+158,40,6,8-Jun-24,19-Jun-24,19-Jun-24,12,Diapause,Before Acclimation,-9,3,0.075
+159,42,6,8-Jun-24,19-Jun-24,19-Jun-24,12,Diapause,Before Acclimation,-9,3,0.071428571
+160,34,6,8-Jun-24,19-Jun-24,19-Jun-24,12,Diapause,Before Acclimation,-9,6,0.176470588
+161,54,6,8-Jun-24,19-Jun-24,19-Jun-24,12,Diapause,Before Acclimation,Control,54,1
+162,36,6,8-Jun-24,19-Jun-24,19-Jun-24,12,Diapause,Before Acclimation,Control,35,0.972222222
+163,60,6,8-Jun-24,19-Jun-24,19-Jun-24,12,Diapause,Before Acclimation,Control,58,0.966666667
+164,49,2,8-Jun-24,19-Jun-24,19-Jun-24,12,Non-diapause,Before Acclimation,-9,0,0
+165,33,2,8-Jun-24,19-Jun-24,19-Jun-24,12,Non-diapause,Before Acclimation,-9,0,0
+166,28,2,8-Jun-24,19-Jun-24,19-Jun-24,12,Non-diapause,Before Acclimation,-9,0,0
+167,41,2,8-Jun-24,19-Jun-24,19-Jun-24,12,Non-diapause,Before Acclimation,-9,0,0
+168,38,2,8-Jun-24,19-Jun-24,19-Jun-24,12,Non-diapause,Before Acclimation,-9,0,0
+169,38,2,8-Jun-24,19-Jun-24,19-Jun-24,12,Non-diapause,Before Acclimation,Control,35,0.921052632
+170,31,2,8-Jun-24,19-Jun-24,19-Jun-24,12,Non-diapause,Before Acclimation,Control,27,0.870967742
+171,48,2,8-Jun-24,19-Jun-24,19-Jun-24,12,Non-diapause,Before Acclimation,Control,44,0.916666667
+172,47,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,43,0.914893617
+173,42,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,39,0.928571429
+174,32,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,31,0.96875
+175,48,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,3,0.0625
+176,50,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,4,0.08
+177,32,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,1,0.03125
+178,33,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,33,1
+179,41,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,39,0.951219512
+180,31,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,30,0.967741935
+181,35,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,30,0.857142857
+182,57,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,45,0.789473684
+183,28,2,9-Jun-24,20-Jun-24,5-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,24,0.857142857
+184,57,5,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,Control,55,0.964912281
+185,34,5,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,Control,33,0.970588235
+186,33,5,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,Control,29,0.878787879
+187,29,5,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,-11,0,0
+188,65,5,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,-11,0,0
+189,47,5,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,-11,0,0
+190,35,5,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,-11,0,0
+191,41,5,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,-11,0,0
+192,21,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Warm Acclimated (15d),Control,21,1
+193,38,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Warm Acclimated (15d),Control,37,0.973684211
+194,34,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Warm Acclimated (15d),Control,34,1
+195,25,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Warm Acclimated (15d),-9,9,0.36
+196,30,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Warm Acclimated (15d),-9,14,0.466666667
+197,39,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Warm Acclimated (15d),-9,25,0.641025641
+198,21,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Cold Acclimated (15d),Control,21,1
+199,40,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Cold Acclimated (15d),Control,40,1
+200,33,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Cold Acclimated (15d),Control,32,0.96969697
+201,26,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Cold Acclimated (15d),-9,25,0.961538462
+202,30,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Cold Acclimated (15d),-9,29,0.966666667
+203,21,5,9-Jun-24,20-Jun-24,5-Jul-24,12,Diapause,Cold Acclimated (15d),-9,20,0.952380952
+204,32,6,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,-11,0,0
+205,35,6,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,-11,0,0
+206,22,6,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,-11,0,0
+207,48,6,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,-11,0,0
+208,51,6,9-Jun-24,21-Jun-24,21-Jun-24,13,Diapause,Before Acclimation,-11,0,0
+209,35,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,1,0.028571429
+210,37,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,0,0
+211,28,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,0,0
+212,41,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,4,0.097560976
+213,43,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,2,0.046511628
+214,22,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,0,0
+215,64,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,55,0.859375
+216,22,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,19,0.863636364
+217,25,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,23,0.92
+218,44,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,34,0.772727273
+219,28,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,25,0.892857143
+220,47,3,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,41,0.872340426
+221,20,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+222,41,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+223,37,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+224,37,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+225,30,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+226,34,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,29,0.852941176
+227,31,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,26,0.838709677
+228,31,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,5,0.161290323
+229,28,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,3,0.107142857
+230,37,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,11,0.297297297
+231,41,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,17,0.414634146
+232,35,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,11,0.314285714
+233,51,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,47,0.921568627
+234,27,2,11-Jun-24,22-Jun-24,7-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,24,0.888888889
+235,35,7,11-Jun-24,21-Jun-24,21-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+236,37,7,11-Jun-24,21-Jun-24,21-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+237,41,7,11-Jun-24,21-Jun-24,21-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+238,28,7,11-Jun-24,21-Jun-24,21-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+239,27,7,11-Jun-24,21-Jun-24,21-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+240,39,7,11-Jun-24,21-Jun-24,21-Jun-24,11,Non-diapause,Before Acclimation,Control,38,0.974358974
+241,40,7,11-Jun-24,21-Jun-24,21-Jun-24,11,Non-diapause,Before Acclimation,Control,40,1
+242,22,7,11-Jun-24,21-Jun-24,21-Jun-24,11,Non-diapause,Before Acclimation,Control,21,0.954545455
+243,23,7,11-Jun-24,21-Jun-24,21-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+244,35,7,11-Jun-24,21-Jun-24,21-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+245,39,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,1,0.025641026
+246,28,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,0,0
+247,25,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,0,0
+248,46,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,3,0.065217391
+249,81,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),-11,1,0.012345679
+250,58,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),Control,56,0.965517241
+251,58,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),Control,56,0.965517241
+252,53,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,47,0.886792453
+253,40,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,37,0.925
+254,29,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,25,0.862068966
+255,39,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,39,1
+256,31,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),-11,28,0.903225806
+257,49,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),Control,46,0.93877551
+258,31,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),Control,30,0.967741935
+259,37,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),Control,36,0.972972973
+260,40,5,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Warm Acclimated (15d),Control,40,1
+261,24,6,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),Control,23,0.958333333
+262,26,6,10-Jun-24,22-Jun-24,7-Jul-24,13,Diapause,Cold Acclimated (15d),Control,24,0.923076923
+263,22,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,4,0.181818182
+264,30,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,4,0.133333333
+265,63,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,13,0.206349206
+266,38,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,6,0.157894737
+267,44,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,5,0.113636364
+268,42,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,11,0.261904762
+269,49,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,13,0.265306122
+270,35,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,5,0.142857143
+271,27,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,3,0.111111111
+272,38,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,9,0.236842105
+273,40,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,7,0.175
+274,32,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,4,0.125
+275,45,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,-9,5,0.111111111
+276,42,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,Control,38,0.904761905
+277,41,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,Control,41,1
+278,37,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,Control,35,0.945945946
+279,29,4,12-Jun-24,23-Jun-24,23-Jun-24,12,Diapause,Before Acclimation,Control,28,0.965517241
+280,36,7,12-Jun-24,23-Jun-24,23-Jun-24,12,Non-diapause,Before Acclimation,-9,2,0.055555556
+281,32,7,12-Jun-24,23-Jun-24,23-Jun-24,12,Non-diapause,Before Acclimation,-9,0,0
+282,24,7,12-Jun-24,23-Jun-24,23-Jun-24,12,Non-diapause,Before Acclimation,-9,0,0
+283,24,7,12-Jun-24,23-Jun-24,23-Jun-24,12,Non-diapause,Before Acclimation,-9,0,0
+284,30,7,12-Jun-24,23-Jun-24,23-Jun-24,12,Non-diapause,Before Acclimation,-9,0,0
+285,29,7,13-Jun-24,23-Jun-24,23-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+286,35,7,13-Jun-24,23-Jun-24,23-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+287,28,7,13-Jun-24,23-Jun-24,23-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+288,34,7,13-Jun-24,23-Jun-24,23-Jun-24,11,Non-diapause,Before Acclimation,Control,33,0.970588235
+289,25,7,13-Jun-24,23-Jun-24,23-Jun-24,11,Non-diapause,Before Acclimation,Control,23,0.92
+290,28,7,13-Jun-24,23-Jun-24,23-Jun-24,11,Non-diapause,Before Acclimation,Control,28,1
+291,20,7,13-Jun-24,23-Jun-24,23-Jun-24,11,Non-diapause,Before Acclimation,Control,20,1
+292,40,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,4,0.1
+293,23,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,0,0
+294,23,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,1,0.043478261
+295,26,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,2,0.076923077
+296,38,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,1,0.026315789
+297,32,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,2,0.0625
+298,43,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,1,0.023255814
+299,24,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,3,0.125
+300,28,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,1,0.035714286
+301,31,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,25,0.806451613
+302,25,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,19,0.76
+303,43,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,33,0.76744186
+304,63,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,49,0.777777778
+305,37,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,32,0.864864865
+306,26,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,25,0.961538462
+307,23,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,18,0.782608696
+308,21,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,13,0.619047619
+309,32,7,13-Jun-24,24-Jun-24,9-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,25,0.78125
+310,47,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Warm Acclimated (15d),-9,19,0.404255319
+311,27,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Warm Acclimated (15d),-9,15,0.555555556
+312,37,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Warm Acclimated (15d),-9,19,0.513513514
+313,22,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Warm Acclimated (15d),-9,9,0.409090909
+314,55,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Warm Acclimated (15d),-9,36,0.654545455
+315,31,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Warm Acclimated (15d),-9,20,0.64516129
+316,53,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Warm Acclimated (15d),-9,34,0.641509434
+317,26,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Warm Acclimated (15d),Control,24,0.923076923
+318,35,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Warm Acclimated (15d),Control,32,0.914285714
+319,55,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Warm Acclimated (15d),Control,53,0.963636364
+320,41,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Cold Acclimated (15d),-9,40,0.975609756
+321,39,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Cold Acclimated (15d),-9,35,0.897435897
+322,34,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Cold Acclimated (15d),-9,32,0.941176471
+323,24,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Cold Acclimated (15d),-9,23,0.958333333
+324,43,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Cold Acclimated (15d),-9,40,0.930232558
+325,39,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Cold Acclimated (15d),-9,38,0.974358974
+326,34,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Cold Acclimated (15d),-9,32,0.941176471
+327,37,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Cold Acclimated (15d),Control,37,1
+328,32,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Cold Acclimated (15d),Control,31,0.96875
+329,34,9,13-Jun-24,24-Jun-24,9-Jul-24,12,Diapause,Cold Acclimated (15d),Control,32,0.941176471
+330,40,4,14-Jun-24,24-Jun-24,9-Jul-24,11,Diapause,Warm Acclimated (15d),Control,37,0.925
+331,42,4,14-Jun-24,24-Jun-24,9-Jul-24,11,Diapause,Warm Acclimated (15d),Control,38,0.904761905
+332,42,4,14-Jun-24,24-Jun-24,9-Jul-24,11,Diapause,Warm Acclimated (15d),Control,42,1
+333,35,4,14-Jun-24,24-Jun-24,9-Jul-24,11,Diapause,Cold Acclimated (15d),Control,33,0.942857143
+334,28,4,14-Jun-24,24-Jun-24,9-Jul-24,11,Diapause,Cold Acclimated (15d),Control,27,0.964285714
+335,23,4,14-Jun-24,24-Jun-24,9-Jul-24,11,Diapause,Cold Acclimated (15d),Control,22,0.956521739
+336,38,6,14-Jun-24,24-Jun-24,9-Jul-24,11,Diapause,Warm Acclimated (15d),Control,35,0.921052632
+337,33,6,14-Jun-24,24-Jun-24,9-Jul-24,11,Diapause,Warm Acclimated (15d),Control,31,0.939393939
+338,28,6,14-Jun-24,26-Jun-24,11-Jul-24,13,Diapause,Warm Acclimated (15d),-11,1,0.035714286
+339,40,6,14-Jun-24,26-Jun-24,11-Jul-24,13,Diapause,Warm Acclimated (15d),-11,3,0.075
+340,25,6,14-Jun-24,26-Jun-24,11-Jul-24,13,Diapause,Cold Acclimated (15d),-11,22,0.88
+341,41,6,14-Jun-24,26-Jun-24,11-Jul-24,13,Diapause,Cold Acclimated (15d),-11,33,0.804878049
+342,36,7,15-Jun-24,26-Jun-24,11-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+343,20,7,15-Jun-24,26-Jun-24,11-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+344,35,7,15-Jun-24,26-Jun-24,11-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+345,31,7,15-Jun-24,26-Jun-24,11-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,10,0.322580645
+346,24,7,15-Jun-24,26-Jun-24,11-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,7,0.291666667
+347,41,7,15-Jun-24,26-Jun-24,11-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,7,0.170731707
+348,24,7,15-Jun-24,26-Jun-24,11-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,21,0.875
+349,71,7,15-Jun-24,26-Jun-24,11-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,64,0.901408451
+350,30,7,14-Jun-24,24-Jun-24,9-Jul-24,11,Non-diapause,Warm Acclimated (15d),Control,26,0.866666667
+351,35,7,14-Jun-24,24-Jun-24,9-Jul-24,11,Non-diapause,Warm Acclimated (15d),Control,35,1
+352,35,7,14-Jun-24,24-Jun-24,9-Jul-24,11,Non-diapause,Warm Acclimated (15d),Control,33,0.942857143
+353,26,7,14-Jun-24,24-Jun-24,9-Jul-24,11,Non-diapause,Warm Acclimated (15d),Control,25,0.961538462
+354,41,7,14-Jun-24,24-Jun-24,9-Jul-24,11,Non-diapause,Warm Acclimated (15d),Control,40,0.975609756
+355,23,7,14-Jun-24,24-Jun-24,9-Jul-24,11,Non-diapause,Cold Acclimated (15d),Control,23,1
+356,39,7,14-Jun-24,24-Jun-24,9-Jul-24,11,Non-diapause,Cold Acclimated (15d),Control,33,0.846153846
+357,40,7,14-Jun-24,24-Jun-24,9-Jul-24,11,Non-diapause,Cold Acclimated (15d),Control,36,0.9
+358,41,7,14-Jun-24,24-Jun-24,9-Jul-24,11,Non-diapause,Cold Acclimated (15d),Control,39,0.951219512
+359,27,7,14-Jun-24,24-Jun-24,9-Jul-24,11,Non-diapause,Cold Acclimated (15d),Control,26,0.962962963
+360,32,4,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Warm Acclimated (15d),-9,23,0.71875
+361,30,4,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Warm Acclimated (15d),-9,16,0.533333333
+362,28,4,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Warm Acclimated (15d),-9,20,0.714285714
+363,39,4,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Cold Acclimated (15d),-9,35,0.897435897
+364,60,4,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Cold Acclimated (15d),-9,51,0.85
+365,27,4,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Cold Acclimated (15d),-9,27,1
+366,26,6,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Warm Acclimated (15d),-9,13,0.5
+367,45,6,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Warm Acclimated (15d),-9,30,0.666666667
+368,38,6,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Warm Acclimated (15d),-9,24,0.631578947
+369,29,6,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Cold Acclimated (15d),-9,28,0.965517241
+370,27,6,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Cold Acclimated (15d),-9,25,0.925925926
+371,35,6,16-Jun-24,28-Jun-24,13-Jul-24,13,Diapause,Cold Acclimated (15d),-9,31,0.885714286
+372,37,3,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,-11,0,0
+373,52,3,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,-11,0,0
+374,43,3,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,-11,0,0
+375,57,3,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,-11,3,0.052631579
+376,34,3,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,-11,0,0
+377,36,3,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,Control,35,0.972222222
+378,37,3,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,Control,36,0.972972973
+379,48,3,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,Control,46,0.958333333
+380,20,5,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,-11,0,0
+381,54,5,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,-11,3,0.055555556
+382,29,5,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,-11,0,0
+383,37,6,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,-11,3,0.081081081
+384,31,5,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,Control,31,1
+385,50,5,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,Control,48,0.96
+386,43,6,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,Control,39,0.906976744
+387,40,6,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,Control,37,0.925
+388,45,6,14-Jun-24,25-Jun-24,25-Jun-24,12,Diapause,Before Acclimation,Control,44,0.977777778
+389,21,8,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+390,35,8,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+391,41,8,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+392,40,8,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+393,31,8,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+394,21,8,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+395,52,8,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+396,38,7,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,-11,0,0
+397,30,8,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,Control,29,0.966666667
+398,41,8,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,Control,40,0.975609756
+399,52,8,15-Jun-24,25-Jun-24,25-Jun-24,11,Non-diapause,Before Acclimation,Control,49,0.942307692
+400,36,7,14-Jun-24,25-Jun-24,25-Jun-24,12,Non-diapause,Before Acclimation,Control,36,1
+401,42,7,14-Jun-24,25-Jun-24,25-Jun-24,12,Non-diapause,Before Acclimation,Control,41,0.976190476
+402,47,4,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Cold Acclimated (15d),-11,36,0.765957447
+403,29,4,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Cold Acclimated (15d),-11,25,0.862068966
+404,60,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Warm Acclimated (15d),-11,2,0.033333333
+405,35,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Warm Acclimated (15d),-11,0,0
+406,30,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Warm Acclimated (15d),-11,1,0.033333333
+407,55,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Warm Acclimated (15d),-11,0,0
+408,33,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Warm Acclimated (15d),-11,1,0.03030303
+409,56,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Warm Acclimated (15d),Control,52,0.928571429
+410,40,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Cold Acclimated (15d),-11,29,0.725
+411,33,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Cold Acclimated (15d),-11,25,0.757575758
+412,29,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Cold Acclimated (15d),-11,16,0.551724138
+413,39,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Cold Acclimated (15d),Control,38,0.974358974
+414,38,6,16-Jun-24,26-Jun-24,11-Jul-24,11,Diapause,Cold Acclimated (15d),Control,36,0.947368421
+415,38,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Warm Acclimated (15d),-11,0,0
+416,30,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Warm Acclimated (15d),-11,0,0
+417,30,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Warm Acclimated (15d),-11,0,0
+418,30,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Warm Acclimated (15d),-11,0,0
+419,25,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Warm Acclimated (15d),-11,0,0
+420,30,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Cold Acclimated (15d),-11,3,0.1
+421,43,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Cold Acclimated (15d),-11,6,0.139534884
+422,29,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Cold Acclimated (15d),-11,12,0.413793103
+423,36,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Cold Acclimated (15d),-11,8,0.222222222
+424,26,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Cold Acclimated (15d),-11,4,0.153846154
+425,35,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Warm Acclimated (15d),Control,31,0.885714286
+426,21,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Warm Acclimated (15d),Control,20,0.952380952
+427,32,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Warm Acclimated (15d),Control,28,0.875
+428,23,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Cold Acclimated (15d),Control,18,0.782608696
+429,39,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Cold Acclimated (15d),Control,36,0.923076923
+430,31,8,16-Jun-24,26-Jun-24,11-Jul-24,11,Non-diapause,Cold Acclimated (15d),Control,27,0.870967742
+431,40,5,16-Jun-24,27-Jun-24,27-Jun-24,12,Diapause,Before Acclimation,-9,8,0.2
+432,39,5,16-Jun-24,27-Jun-24,27-Jun-24,12,Diapause,Before Acclimation,-9,10,0.256410256
+433,30,5,16-Jun-24,27-Jun-24,27-Jun-24,12,Diapause,Before Acclimation,-9,11,0.366666667
+434,37,8,17-Jun-24,27-Jun-24,27-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+435,20,8,17-Jun-24,27-Jun-24,27-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+436,39,8,17-Jun-24,27-Jun-24,27-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+437,33,8,17-Jun-24,27-Jun-24,27-Jun-24,11,Non-diapause,Before Acclimation,Control,32,0.96969697
+438,35,8,17-Jun-24,27-Jun-24,27-Jun-24,11,Non-diapause,Before Acclimation,Control,34,0.971428571
+439,24,8,17-Jun-24,28-Jun-24,13-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,1,0.041666667
+440,39,8,17-Jun-24,28-Jun-24,13-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,3,0.076923077
+441,34,8,17-Jun-24,28-Jun-24,13-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,1,0.029411765
+442,48,8,17-Jun-24,28-Jun-24,13-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,29,0.604166667
+443,46,8,17-Jun-24,28-Jun-24,13-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,39,0.847826087
+444,42,8,17-Jun-24,28-Jun-24,13-Jul-24,12,Non-diapause,Cold Acclimated (15d),-9,28,0.666666667
+445,31,8,17-Jun-24,28-Jun-24,13-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,2,0.064516129
+446,42,8,17-Jun-24,28-Jun-24,13-Jul-24,12,Non-diapause,Warm Acclimated (15d),-9,2,0.047619048
+447,32,7,16-Jun-24,28-Jun-24,13-Jul-24,13,Non-diapause,Cold Acclimated (15d),-9,24,0.75
+448,25,7,16-Jun-24,28-Jun-24,13-Jul-24,13,Non-diapause,Cold Acclimated (15d),-9,23,0.92
+449,38,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,36,0.947368421
+450,45,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,44,0.977777778
+451,61,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Warm Acclimated (15d),Control,58,0.950819672
+452,38,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,37,0.973684211
+453,30,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,27,0.9
+454,45,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Cold Acclimated (15d),Control,37,0.822222222
+455,44,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+456,35,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+457,38,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+458,24,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Warm Acclimated (15d),-11,0,0
+459,30,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,9,0.3
+460,59,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,21,0.355932203
+461,45,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,16,0.355555556
+462,32,13,19-Jun-24,30-Jun-24,15-Jul-24,12,Non-diapause,Cold Acclimated (15d),-11,9,0.28125
+463,35,13,19-Jun-24,29-Jun-24,29-Jun-24,11,Non-diapause,Before Acclimation,Control,33,0.942857143
+464,39,13,19-Jun-24,29-Jun-24,29-Jun-24,11,Non-diapause,Before Acclimation,Control,38,0.974358974
+465,40,13,19-Jun-24,29-Jun-24,29-Jun-24,11,Non-diapause,Before Acclimation,Control,38,0.95
+466,38,13,19-Jun-24,29-Jun-24,29-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+467,62,13,19-Jun-24,29-Jun-24,29-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+468,31,13,19-Jun-24,29-Jun-24,29-Jun-24,11,Non-diapause,Before Acclimation,-9,0,0
+469,50,13,22-Jun-24,3-Jul-24,3-Jul-24,12,Non-diapause,Before Acclimation,-11,0,0
+470,39,13,22-Jun-24,3-Jul-24,3-Jul-24,12,Non-diapause,Before Acclimation,-11,0,0
+471,35,13,22-Jun-24,3-Jul-24,3-Jul-24,12,Non-diapause,Before Acclimation,-11,0,0
+472,42,13,20-Jun-24,2-Jul-24,17-Jul-24,13,Non-diapause,Warm Acclimated (15d),-9,10,0.238095238
+473,29,13,20-Jun-24,2-Jul-24,17-Jul-24,13,Non-diapause,Warm Acclimated (15d),-9,4,0.137931034
+474,25,13,20-Jun-24,2-Jul-24,17-Jul-24,13,Non-diapause,Warm Acclimated (15d),-9,6,0.24
+475,30,13,20-Jun-24,2-Jul-24,17-Jul-24,13,Non-diapause,Cold Acclimated (15d),-9,24,0.8
+476,39,13,20-Jun-24,2-Jul-24,17-Jul-24,13,Non-diapause,Cold Acclimated (15d),-9,35,0.897435897
+477,43,13,20-Jun-24,2-Jul-24,17-Jul-24,13,Non-diapause,Cold Acclimated (15d),-9,32,0.744186047
+D1,37,6,9-Jun-24,21-Jun-24,13-Jul-24,13,Diapause,De-acclimated,-9,30,0.810810811
+D2,37,6,9-Jun-24,21-Jun-24,13-Jul-24,13,Diapause,De-acclimated,-9,28,0.756756757
+D3,32,6,9-Jun-24,21-Jun-24,13-Jul-24,13,Diapause,De-acclimated,-9,19,0.59375
+D4,26,6,9-Jun-24,21-Jun-24,13-Jul-24,13,Diapause,De-acclimated,Control,25,0.961538462
+D5,54,6,9-Jun-24,21-Jun-24,13-Jul-24,13,Diapause,De-acclimated,Control,50,0.925925926
+D6,24,6,9-Jun-24,21-Jun-24,13-Jul-24,13,Diapause,Cold Acclimated (22d),-9,22,0.916666667
+D7,22,6,9-Jun-24,21-Jun-24,13-Jul-24,13,Diapause,Cold Acclimated (22d),-9,22,1
+D8,23,6,9-Jun-24,21-Jun-24,13-Jul-24,13,Diapause,Cold Acclimated (22d),-9,21,0.913043478
+D9,31,3,10-Jun-24,21-Jun-24,13-Jul-24,12,Diapause,Cold Acclimated (22d),Control,29,0.935483871
+D10,59,3,10-Jun-24,21-Jun-24,13-Jul-24,12,Diapause,Cold Acclimated (22d),Control,57,0.966101695
+D11,34,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,De-acclimated,-9,4,0.117647059
+D12,30,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,De-acclimated,-9,7,0.233333333
+D13,49,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,De-acclimated,-9,3,0.06122449
+D14,45,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,De-acclimated,-9,5,0.111111111
+D15,35,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,De-acclimated,-9,5,0.142857143
+D16,32,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,De-acclimated,Control,31,0.96875
+D17,24,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,De-acclimated,Control,23,0.958333333
+D18,36,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,Cold Acclimated (22d),-9,33,0.916666667
+D19,27,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,Cold Acclimated (22d),-9,26,0.962962963
+D20,58,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,Cold Acclimated (22d),-9,51,0.879310345
+D21,37,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,Cold Acclimated (22d),-9,34,0.918918919
+D22,48,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,Cold Acclimated (22d),-9,41,0.854166667
+D23,32,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,Cold Acclimated (22d),Control,31,0.96875
+D24,67,7,11-Jun-24,21-Jun-24,13-Jul-24,11,Non-diapause,Cold Acclimated (22d),Control,64,0.955223881
+D25,50,6,16-Jun-24,27-Jun-24,19-Jul-24,12,Diapause,Cold Acclimated (22d),Control,45,0.9
+D26,36,6,16-Jun-24,27-Jun-24,19-Jul-24,12,Diapause,Cold Acclimated (22d),Control,35,0.972222222
+D27,27,6,16-Jun-24,27-Jun-24,19-Jul-24,12,Diapause,Cold Acclimated (22d),-11,21,0.777777778
+D28,51,6,16-Jun-24,27-Jun-24,19-Jul-24,12,Diapause,Cold Acclimated (22d),-11,44,0.862745098
+D29,38,6,16-Jun-24,27-Jun-24,19-Jul-24,12,Diapause,De-acclimated,-11,1,0.026315789
+D30,59,6,16-Jun-24,27-Jun-24,19-Jul-24,12,Diapause,De-acclimated,-11,2,0.033898305
+D31,25,6,17-Jun-24,27-Jun-24,19-Jul-24,11,Diapause,De-acclimated,-11,1,0.04
+D32,20,6,17-Jun-24,27-Jun-24,19-Jul-24,11,Diapause,Cold Acclimated (22d),-11,14,0.7
+D33,20,7,16-Jun-24,27-Jun-24,19-Jul-24,12,Non-diapause,Cold Acclimated (22d),-11,13,0.65
+D34,46,7,16-Jun-24,27-Jun-24,19-Jul-24,12,Non-diapause,Cold Acclimated (22d),-11,22,0.47826087
+D35,39,7,16-Jun-24,27-Jun-24,19-Jul-24,12,Non-diapause,De-acclimated,-11,0,0
+D36,43,7,16-Jun-24,27-Jun-24,19-Jul-24,12,Non-diapause,De-acclimated,-11,0,0
+D37,50,10,17-Jun-24,29-Jun-24,21-Jul-24,13,Diapause,Cold Acclimated (22d),Control,50,1
+D38,36,10,17-Jun-24,29-Jun-24,21-Jul-24,13,Diapause,Cold Acclimated (22d),Control,35,0.972222222
+D39,42,10,17-Jun-24,29-Jun-24,21-Jul-24,13,Diapause,Cold Acclimated (22d),-9,41,0.976190476
+D40,37,10,17-Jun-24,29-Jun-24,21-Jul-24,13,Diapause,Cold Acclimated (22d),-9,34,0.918918919
+D41,31,10,17-Jun-24,29-Jun-24,21-Jul-24,13,Diapause,De-acclimated,Control,31,1
+D42,42,10,17-Jun-24,29-Jun-24,21-Jul-24,13,Diapause,De-acclimated,Control,42,1
+D43,54,10,17-Jun-24,29-Jun-24,21-Jul-24,13,Diapause,De-acclimated,-9,42,0.777777778
+D44,54,10,17-Jun-24,29-Jun-24,21-Jul-24,13,Diapause,De-acclimated,-9,44,0.814814815
+D45,41,10,17-Jun-24,29-Jun-24,21-Jul-24,13,Diapause,De-acclimated,-9,35,0.853658537
+D46,21,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,Cold Acclimated (22d),Control,21,1
+D47,33,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,Cold Acclimated (22d),Control,28,0.848484848
+D48,36,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,Cold Acclimated (22d),Control,35,0.972222222
+D49,24,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,Cold Acclimated (22d),-9,24,1
+D50,23,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,Cold Acclimated (22d),-9,21,0.913043478
+D51,45,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,Cold Acclimated (22d),-9,43,0.955555556
+D52,23,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,De-acclimated,Control,22,0.956521739
+D53,22,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,De-acclimated,Control,21,0.954545455
+D54,37,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,De-acclimated,Control,36,0.972972973
+D55,34,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,De-acclimated,-9,26,0.764705882
+D56,52,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,De-acclimated,-9,38,0.730769231
+D57,34,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,De-acclimated,-9,19,0.558823529
+D58,29,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,Cold Acclimated (22d),-9,29,1
+D59,20,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,Cold Acclimated (22d),-9,20,1
+D60,59,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,Cold Acclimated (22d),-9,57,0.966101695
+D61,35,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,De-acclimated,-9,25,0.714285714
+D62,34,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,De-acclimated,-9,18,0.529411765
+D63,30,9,19-Jun-24,29-Jun-24,21-Jul-24,11,Diapause,De-acclimated,-9,18,0.6
+D64,35,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,Cold Acclimated (22d),Control,34,0.971428571
+D65,41,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,Cold Acclimated (22d),Control,38,0.926829268
+D66,71,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,Cold Acclimated (22d),-9,69,0.971830986
+D67,39,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,Cold Acclimated (22d),-9,35,0.897435897
+D68,38,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,De-acclimated,Control,37,0.973684211
+D69,42,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,De-acclimated,Control,41,0.976190476
+D70,67,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,De-acclimated,-9,15,0.223880597
+D71,45,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,De-acclimated,-9,7,0.155555556
+D72,45,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,Cold Acclimated (22d),-9,42,0.933333333
+D73,54,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,Cold Acclimated (22d),-9,52,0.962962963
+D74,48,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,Cold Acclimated (22d),-9,42,0.875
+D75,48,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,De-acclimated,-9,13,0.270833333
+D76,55,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,De-acclimated,-9,9,0.163636364
+D77,59,11,18-Jun-24,29-Jun-24,21-Jul-24,12,Non-diapause,De-acclimated,-9,11,0.186440678
+D78,29,9,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),-11,23,0.793103448
+D79,25,9,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),-11,21,0.84
+D80,40,9,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,0,0
+D81,29,9,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,0,0
+D82,32,9,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,1,0.03125
+D83,28,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),-11,24,0.857142857
+D84,34,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),-11,33,0.970588235
+D85,58,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),-11,45,0.775862069
+D86,29,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),-11,29,1
+D87,23,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),-11,19,0.826086957
+D88,34,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,2,0.058823529
+D89,20,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,1,0.05
+D90,29,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,1,0.034482759
+D91,32,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,3,0.09375
+D92,39,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,3,0.076923077
+D93,52,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),Control,51,0.980769231
+D94,32,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),Control,31,0.96875
+D95,33,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),Control,31,0.939393939
+D96,31,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,Control,31,1
+D97,41,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,Control,41,1
+D98,29,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,Control,29,1
+D99,23,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),-11,22,0.956521739
+D100,35,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),-11,30,0.857142857
+D101,49,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),-11,42,0.857142857
+D102,53,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,3,0.056603774
+D103,24,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,4,0.166666667
+D104,44,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,-11,2,0.045454545
+D105,22,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),Control,22,1
+D106,34,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),Control,32,0.941176471
+D107,45,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,Cold Acclimated (22d),Control,44,0.977777778
+D108,58,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,Control,57,0.982758621
+D109,28,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,Control,28,1
+D110,42,10,19-Jun-24,1-Jul-24,23-Jul-24,13,Diapause,De-acclimated,Control,41,0.976190476
+D111,21,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,10,0.476190476
+D112,57,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,21,0.368421053
+D113,22,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,11,0.5
+D114,23,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,10,0.434782609
+D115,34,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,12,0.352941176
+D116,29,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,-11,0,0
+D117,42,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,-11,0,0
+D118,69,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,-11,0,0
+D119,37,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,-11,2,0.054054054
+D120,48,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,-11,1,0.020833333
+D121,48,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,21,0.4375
+D122,41,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,14,0.341463415
+D123,34,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,15,0.441176471
+D124,42,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,-11,1,0.023809524
+D125,42,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,-11,1,0.023809524
+D126,68,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,-11,0,0
+D127,23,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,21,0.913043478
+D128,35,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,33,0.942857143
+D129,42,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,39,0.928571429
+D130,40,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,37,0.925
+D131,47,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,44,0.936170213
+D132,40,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,38,0.95
+D133,59,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,Control,51,0.86440678
+D134,56,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,Control,49,0.875
+D135,48,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,Control,43,0.895833333
+D136,57,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,Control,55,0.964912281
+D137,23,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,Control,20,0.869565217
+D138,55,11,19-Jun-24,1-Jul-24,23-Jul-24,13,Non-diapause,De-acclimated,Control,53,0.963636364
+D139,34,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),-9,32,0.941176471
+D140,21,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),-9,19,0.904761905
+D141,46,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),-9,44,0.956521739
+D142,40,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),-9,38,0.95
+D143,44,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),-9,43,0.977272727
+D144,38,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,De-acclimated,-9,29,0.763157895
+D145,39,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,De-acclimated,-9,29,0.743589744
+D146,42,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,De-acclimated,-9,34,0.80952381
+D147,47,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,De-acclimated,-9,34,0.723404255
+D148,26,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,De-acclimated,-9,21,0.807692308
+D149,47,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),-9,44,0.936170213
+D150,40,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),-9,38,0.95
+D151,37,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),-9,36,0.972972973
+D152,43,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),-9,41,0.953488372
+D153,30,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,De-acclimated,-9,24,0.8
+D154,29,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,De-acclimated,-9,23,0.793103448
+D155,27,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,De-acclimated,-9,21,0.777777778
+D156,21,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),Control,18,0.857142857
+D157,29,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),Control,28,0.965517241
+D158,31,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,Cold Acclimated (22d),Control,30,0.967741935
+D159,27,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,De-acclimated,Control,27,1
+D160,23,12,21-Jun-24,3-Jul-24,25-Jul-24,13,Diapause,De-acclimated,Control,23,1
+D161,49,12,22-Jun-24,3-Jul-24,25-Jul-24,12,Diapause,De-acclimated,Control,48,0.979591837
+D162,23,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),-9,20,0.869565217
+D163,29,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),-9,27,0.931034483
+D164,37,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),-9,33,0.891891892
+D165,28,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),-9,23,0.821428571
+D166,44,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),-9,39,0.886363636
+D167,32,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),-9,24,0.75
+D168,36,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),-9,32,0.888888889
+D169,48,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),-9,37,0.770833333
+D170,35,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),-9,28,0.8
+D171,39,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),-9,32,0.820512821
+D172,31,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,-9,8,0.258064516
+D173,25,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,-9,2,0.08
+D174,42,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,-9,9,0.214285714
+D175,47,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,-9,10,0.212765957
+D176,28,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,-9,5,0.178571429
+D177,23,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,-9,5,0.217391304
+D178,34,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,-9,8,0.235294118
+D179,44,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,-9,19,0.431818182
+D180,45,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,-9,18,0.4
+D181,36,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,-9,12,0.333333333
+D182,44,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,43,0.977272727
+D183,27,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,26,0.962962963
+D184,31,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,28,0.903225806
+D185,43,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,42,0.976744186
+D186,53,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,51,0.962264151
+D187,36,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,30,0.833333333
+D188,51,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,Control,47,0.921568627
+D189,27,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,Control,23,0.851851852
+D190,43,14,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,Control,39,0.906976744
+D191,44,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,Control,42,0.954545455
+D192,54,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,Control,50,0.925925926
+D193,26,13,21-Jun-24,3-Jul-24,25-Jul-24,13,Non-diapause,De-acclimated,Control,25,0.961538462
+D194,38,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,Cold Acclimated (22d),-11,35,0.921052632
+D195,42,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,Cold Acclimated (22d),-11,39,0.928571429
+D196,45,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,Cold Acclimated (22d),-11,39,0.866666667
+D197,32,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,Cold Acclimated (22d),-11,29,0.90625
+D198,47,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,Cold Acclimated (22d),-11,44,0.936170213
+D199,32,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,Cold Acclimated (22d),-11,28,0.875
+D200,41,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,Cold Acclimated (22d),-11,35,0.853658537
+D201,45,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,De-acclimated,-11,4,0.088888889
+D202,34,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,De-acclimated,-11,4,0.117647059
+D203,41,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,De-acclimated,-11,3,0.073170732
+D204,27,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,De-acclimated,-11,1,0.037037037
+D205,21,12,23-Jun-24,5-Jul-24,27-Jul-24,13,Diapause,De-acclimated,-11,1,0.047619048
+D206,28,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,De-acclimated,-11,4,0.142857143
+D207,53,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,De-acclimated,-11,6,0.113207547
+D208,37,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,Cold Acclimated (22d),-11,33,0.891891892
+D209,29,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,Cold Acclimated (22d),Control,29,1
+D210,29,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,Cold Acclimated (22d),Control,26,0.896551724
+D211,55,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,Cold Acclimated (22d),Control,53,0.963636364
+D212,36,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,Cold Acclimated (22d),Control,33,0.916666667
+D213,25,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,Cold Acclimated (22d),Control,25,1
+D214,26,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,19,0.730769231
+D215,21,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,10,0.476190476
+D216,33,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,15,0.454545455
+D217,36,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,19,0.527777778
+D218,38,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,13,0.342105263
+D219,21,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,0,0
+D220,27,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,0,0
+D221,31,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,0,0
+D222,41,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,1,0.024390244
+D223,30,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,0,0
+D224,35,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,De-acclimated,Control,32,0.914285714
+D225,74,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,De-acclimated,Control,68,0.918918919
+D226,27,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,De-acclimated,Control,25,0.925925926
+D227,24,12,24-Jun-24,5-Jul-24,27-Jul-24,12,Diapause,De-acclimated,Control,22,0.916666667
+D228,43,12,25-Jun-24,5-Jul-24,27-Jul-24,11,Diapause,De-acclimated,Control,42,0.976744186
+D229,25,12,25-Jun-24,5-Jul-24,27-Jul-24,11,Diapause,De-acclimated,Control,25,1
+D230,43,12,25-Jun-24,5-Jul-24,27-Jul-24,11,Diapause,De-acclimated,Control,41,0.953488372
+D231,38,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,21,0.552631579
+D232,30,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,23,0.766666667
+D233,51,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,34,0.666666667
+D234,32,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,15,0.46875
+D235,21,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,12,0.571428571
+D236,24,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),-11,14,0.583333333
+D237,42,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,1,0.023809524
+D238,29,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,1,0.034482759
+D239,38,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,0,0
+D240,35,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,1,0.028571429
+D241,23,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,0,0
+D242,34,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,-11,1,0.029411765
+D243,23,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,21,0.913043478
+D244,35,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,33,0.942857143
+D245,26,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,25,0.961538462
+D246,52,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,Cold Acclimated (22d),Control,48,0.923076923
+D247,30,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,Control,30,1
+D248,21,14,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,Control,21,1
+D249,24,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,Control,21,0.875
+D250,30,13,23-Jun-24,5-Jul-24,27-Jul-24,13,Non-diapause,De-acclimated,Control,25,0.833333333
