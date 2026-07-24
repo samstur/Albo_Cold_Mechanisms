@@ -17,6 +17,8 @@ The raw data file used for this analysis is here: [link](https://github.com/sams
 
 The script used for conducting a principal components analysis and follow-up statistical analyses and data visualization: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Metabolite_Analysis_PCA_finalscript.R)
 
+The script used for testing whether individual metabolites are significantly affected by diapause and cold acclimation using a planned set of five pairwise contrasts. Generates a datasheet with p-values for each pairwise contrast for each metabolite as well as Log2FC values. Also generates the metabolite heatmap: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Metabolite_IndMetTests.R)
+
 This is the list of metabolite abbreviations used in the script for data visualization: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/met_abbreviations.csv)
 
 This file contains information on the sample IDs, tube labels, diapause and acclimation treatments, and parental cage numbers for each metabolite and lipid sample: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/SampleInfo_Fall2024.csv)
