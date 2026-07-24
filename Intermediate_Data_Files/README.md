@@ -1,1 +1,1 @@
-
+coldshocksurvival_scaledaverages.csv = file generated in coldshocksurvival_finalscript.R that contains the average cold shock survival for each combination of diapause, acclimation, and cold shock treatment. This data has been scaled to the average survival of the control groups.
