@@ -34,4 +34,4 @@ The raw data file on fatty acyl methyl ester species used for this analysis is h
 
 The script used for conducting a separate principal components analysis of phospholipid head group classes and fatty acyl methyl ester species and follow-up statistical analyses and data visualization: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Lipid_Analysis_PCA_finalscript.R)
 
-The script used for statistical analyses, data summary, and data visualization is here:
+The script used for testing whether individual PL classes and FAME species are significantly affected by diapause and cold acclimation using a planned set of five pairwise contrasts. Generates a [PL datasheet](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Intermediate_Data_Files/lip_headgroup_pairwise_contrasts_stats.csv) and a [FAME datasheet](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Intermediate_Data_Files/lip_fa_pairwise_contrasts_stats.csv) with p-values for each pairwise contrast for each PL class and FAME species as well as Log2FC values. Also generates the lipid heatmap: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Lipid_IndTests.R)
