@@ -28,6 +28,8 @@ This file contains information on the sample IDs, tube labels, diapause and accl
 ## Lipid profile
 Phospholipid classes were quantified relatively and fatty acyl membrane ester species were quantified absolutely for six treatment groups: ND Before, ND Warm, ND Cold, D Before, D Warm, D Cold by Vladimír Košťál and Martin Moos.
 
+The raw data file on phospholipid headgroup classes used for this analysis is here: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/PhospholipidClass_RawData.csv)
+
 The script used for conducting a separate principal components analysis of phospholipid head group classes and fatty acyl methyl ester species and follow-up statistical analyses and data visualization: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Lipid_Analysis_PCA_finalscript.R)
 
 The script used for statistical analyses, data summary, and data visualization is here:
