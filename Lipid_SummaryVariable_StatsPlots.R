@@ -5,6 +5,13 @@
 # for variables with normal distributions of residuals, run lmer with ANOVA on totaltreatment then all pairwise comparisons
 # for variables with non-normal residuals, run Kruskal-wallis with totaltreatment, then do all pairwise comparisons
 
+library(ggplot2)
+library(patchwork)
+library(stringr)
+library(rcompanion)
+library(multcompView)
+library(broom)
+
 ## read in both original datasets
 ### read in lipid head group data 
 setwd("~/Documents/Georgetown/Armbruster Lab/Cold Tolerance/Data Files for Submission")
@@ -260,7 +267,9 @@ wilcox_pepcratio <- pairwise.wilcox.test(lipdata$PEPCratio, lipdata$totaltreatme
 PT_PEPC = fullPTable(wilcox_pepcratio$p.value) ## converts lower triangle matrix to full square matrix needed for multcompLetters
 exp_letters_PEPC <- multcompLetters(PT_PEPC)
 exp_letters_PEPC
-
+results_PEPC <- broom::tidy(wilcox_pepcratio)
+results_PEPC <- as.data.frame(results_PEPC)
+colnames(results_PEPC)[3] <- "p.value_PEPC"
 
 # FA unsaturation index
 unsat_model <- lmer(log(av_unsat) ~ totaltreatment + (1|parental_cage_num), data = fa_data)
@@ -280,6 +289,10 @@ wilcox_avunsat <- pairwise.wilcox.test(fa_data$av_unsat, fa_data$totaltreatment_
 PT_avunsat = fullPTable(wilcox_avunsat$p.value) ## converts lower triangle matrix to full square matrix needed for multcompLetters
 exp_letters_avunsat <- multcompLetters(PT_avunsat)
 exp_letters_avunsat
+results_avunsat <- broom::tidy(wilcox_avunsat)
+results_avunsat <- as.data.frame(results_avunsat)
+colnames(results_avunsat)[3] <- "p.value_avunsat"
+
 
 # FA prop PUFA
 pufa_model <- lmer(log(prop_PUFA) ~ totaltreatment + (1|parental_cage_num), data = fa_data)
@@ -298,6 +311,10 @@ wilcox_proppufa <- pairwise.wilcox.test(fa_data$prop_PUFA, fa_data$totaltreatmen
 PT_proppufa = fullPTable(wilcox_proppufa$p.value) ## converts lower triangle matrix to full square matrix needed for multcompLetters
 exp_letters_proppufa <- multcompLetters(PT_proppufa)
 exp_letters_proppufa
+results_proppufa <- broom::tidy(wilcox_proppufa)
+results_proppufa <- as.data.frame(results_proppufa)
+colnames(results_proppufa)[3] <- "p.value_proppufa"
+
 
 # FA average length
 avlength_model <- lmer(av_length ~ totaltreatment_short + (1|parental_cage_num), data = fa_data)
@@ -315,4 +332,17 @@ wilcox_avlength <- pairwise.wilcox.test(fa_data$av_length, fa_data$totaltreatmen
 PT_avlength = fullPTable(wilcox_avlength$p.value) ## converts lower triangle matrix to full square matrix needed for multcompLetters
 exp_letters_avlength <- multcompLetters(PT_avlength)
 exp_letters_avlength
+results_avlength <- broom::tidy(wilcox_avlength)
+results_avlength <- as.data.frame(results_avlength)
+colnames(results_avlength)[3] <- "p.value_avlength"
 
+## now merge the posthoc test p-values to save to a file for supplementary table
+finaltable <- merge(results_PEPC,results_avunsat, by = c("group1","group2"))
+finaltable <- merge(finaltable,results_proppufa, by = c("group1","group2"))
+finaltable <- merge(finaltable,results_avlength, by = c("group1","group2"))
+
+finaltable$contrast <- paste(finaltable$group1, finaltable$group2, sep = " - ")
+finaltable <- finaltable %>% dplyr::select(contrast, p.value_PEPC, p.value_avunsat, p.value_proppufa, p.value_avlength)
+
+setwd("~/Documents/Georgetown/Armbruster Lab/Cold Tolerance/Output Files")
+write.csv(finaltable, file = "Lipid_SummaryVariable_posthoctests.csv", row.names = F)
