@@ -354,7 +354,7 @@ met_loadings_PC1$met <- factor(met_loadings_PC1$met, levels = met_loadings_PC1$m
 met_loadings_PC1_plot <- ggplot(data=met_loadings_PC1, aes(x = met, y = PC1)) +
   geom_col(aes(fill = PC1>0)) + 
   coord_flip() +
-  scale_fill_manual(values = c("darkblue","darkred"))+
+  scale_fill_manual(values = c("#90aba3","#c86d51"))+
   theme_bw() +
   scale_y_continuous(limits = c(-0.2,0.24),
                      breaks =c(-0.2,0,0.2)) +
@@ -378,7 +378,7 @@ met_loadings_PC2$met <- factor(met_loadings_PC2$met, levels = met_loadings_PC2$m
 met_loadings_PC2_plot <- ggplot(data=met_loadings_PC2, aes(x = met, y = PC2)) +
   geom_col(aes(fill = PC2>0)) + 
   coord_flip() +
-  scale_fill_manual(values = c("darkblue","darkred"))+
+  scale_fill_manual(values = c("#90aba3","#c86d51"))+
   theme_bw() +
   scale_y_continuous(limits = c(-0.33,0.25),
                      breaks =c(-0.25,0,0.25)) +
@@ -394,52 +394,6 @@ met_loadings_PC2_plot <- ggplot(data=met_loadings_PC2, aes(x = met, y = PC2)) +
         plot.margin = unit(c(0, 0, 0.5, 0.5), "cm"))
 met_loadings_PC2_plot
 
-
-met_loadings_PC1 <- met_loadings %>%
-  arrange(PC1)
-# lock in factor level order
-met_loadings_PC1$met <- factor(met_loadings_PC1$met, levels = met_loadings_PC1$met)
-
-met_loadings_PC1_plot_v2 <- ggplot(data=met_loadings_PC1, aes(x = met, y = PC1)) +
-  geom_col(aes(fill = PC1>0)) + 
-  scale_fill_manual(values = c("darkblue","darkred"))+
-  theme_bw() +
-  scale_y_continuous(limits = c(-0.2,0.24),
-                     breaks =c(-0.2,0,0.2)) +
-  ylab("PC1 Loading")+
-  theme_bw() +
-  xlab("")+
-  scale_x_discrete(position = "top") +
-  theme(axis.text.x = element_text(size = 8, angle = 45, hjust=0),
-        axis.title.y = element_text(size = 10,face="bold"),
-        axis.text.y = element_text(size=8),
-        legend.position = "")+
-  theme(plot.margin = unit(c(0,1,0,1), "cm"))
-met_loadings_PC1_plot_v2
-
-
-met_loadings_PC2 <- met_loadings %>%
-  arrange(PC2)
-# lock in factor level order
-met_loadings_PC2$met <- factor(met_loadings_PC2$met, levels = met_loadings_PC2$met)
-
-
-met_loadings_PC2_plot_v2 <- ggplot(data=met_loadings_PC2, aes(x = met, y = PC2)) +
-  geom_col(aes(fill = PC2>0)) + 
-  coord_flip() +
-  scale_fill_manual(values = c("darkblue","darkred"))+
-  theme_bw() +
-  scale_y_continuous(limits = c(-0.33,0.20),
-                     breaks =c(-0.25,0,0.2)) +
-  scale_x_discrete(position = "top") +
-  ylab("PC2 Loading")+
-  xlab("")+
-  theme(axis.text.x = element_text(size = 8),
-        axis.title.x = element_text(size = 10,face="bold"),
-        axis.text.y = element_text(size=8),
-        legend.position = "")+
-  theme(plot.margin = unit(c(0,1,0,0), "cm"))
-met_loadings_PC2_plot_v2
 
 layout_design <- "
 BD
