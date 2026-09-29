@@ -115,7 +115,7 @@ lp_Ncold_Nwarm <- ggplot(sig_Ncold_Nwarm, aes(x = met_abbr, y = Ncold_Nwarm_log2
   coord_flip() +
   theme_bw() +
   ggtitle("(1) ND Cold - ND Warm")+
-  scale_fill_manual(values = c("#7CBFAC","#7C7FBF"), guide = "none")+
+  scale_fill_manual(values = c("#90aba3","#c86d51"), guide = "none")+
   scale_size_continuous(breaks = c(1,5,10,15),
                         limits = c(1,15),
                         range = c(1,7))+
@@ -143,7 +143,7 @@ lp_Dcold_Dwarm <- ggplot(sig_Dcold_Dwarm, aes(x = met_abbr, y = Dcold_Dwarm_log2
   coord_flip() +
   theme_bw() +
   ggtitle("(2) D Cold - D Warm")+
-  scale_fill_manual(values = c("#7CBFAC","#7C7FBF"), guide = "none")+
+  scale_fill_manual(values = c("#90aba3","#c86d51"), guide = "none")+
   scale_size_continuous(breaks = c(1,5,10,15),
                         limits = c(1,15),
                         range = c(1,7))+
@@ -170,7 +170,7 @@ lp_Dbefore_Nbefore <- ggplot(sig_Dbefore_Nbefore, aes(x = met_abbr, y = Dbefore_
   coord_flip() +
   theme_bw() +
   ggtitle("(3) D Before - ND Before")+
-  scale_fill_manual(values = c("#7CBFAC","#7C7FBF"), guide = "none")+
+  scale_fill_manual(values = c("#90aba3","#c86d51"), guide = "none")+
   scale_size_continuous(breaks = c(1,5,10,15),
                         limits = c(1,15),
                         range = c(1,7))+
@@ -198,7 +198,7 @@ lp_Dwarm_Nwarm <- ggplot(sig_Dwarm_Nwarm, aes(x = met_abbr, y = Dwarm_Nwarm_log2
   coord_flip() +
   theme_bw() +
   ggtitle("(4) D Warm - ND Warm")+
-  scale_fill_manual(values = c("#7CBFAC","#7C7FBF"), guide = "none")+
+  scale_fill_manual(values = c("#90aba3","#c86d51"), guide = "none")+
   scale_size_continuous(breaks = c(1,5,10,15),
                         limits = c(1,15),
                         range = c(1,7))+
@@ -223,7 +223,7 @@ lp_Dcold_Ncold <- ggplot(sig_Dcold_Ncold, aes(x = met_abbr, y = Dcold_Ncold_log2
   coord_flip() +
   theme_bw()+
   ggtitle("(5) D Cold - ND Cold")+
-  scale_fill_manual(values = c("#7CBFAC","#7C7FBF"), guide = "none")+
+  scale_fill_manual(values = c("#90aba3","#c86d51"), guide = "none")+
   scale_size_continuous(breaks = c(1,5,10,15),
                         limits = c(1,15),
                         range = c(1,7))+
