@@ -13,6 +13,9 @@ library(stats)
 library("plotrix")
 library(dplyr)
 library(PsychHelperFunctions)
+library("glmmTMB")
+library("car")
+library("emmeans")
 
 ### rename cold shock treatment factors 
 data$CS_treat[data$CS_treat == '-9'] <- '-9°C for 20hrs'
@@ -70,8 +73,8 @@ plot_CS_survival_control <- ggplot(data[data$CS_treat=="Control",],
         legend.position = "")+
   scale_x_discrete(limits=c("Before Acclimation","Warm Acclimated (15d)","Cold Acclimated (15d)",
                             'Cold Acclimated (22d)','De-acclimated'),
-                   labels=c("Before Acc.","Warm Acc. (15d)","Cold Acc. (15d)",
-                            'Cold Acc. (22d)','De-acc.'))+
+                   labels=c("Before Acc.","Warm Acc. 15-d","Cold Acc. 15-d",
+                            'Cold Acc. 22-d','De-acc.22-d'))+
   facet_grid(cols = vars(diapause_treat))
 plot_CS_survival_control
 
@@ -139,25 +142,25 @@ plot_CS_survival_scaled <- ggplot(data[data$CS_treat!="Control",],
   ylab("Survival (scaled)")+
   theme_bw()+
   scale_y_continuous(limits=c(0,1.1),breaks=c(0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1))+
-  theme(axis.title.x = element_text(size = 13,face="bold"),
-        axis.text.x = element_text(size = 12,angle=45,vjust=1,hjust=1),
-        axis.title.y = element_text(size = 13,face="bold"),
-        axis.text.y = element_text(size=12),
-        strip.text = element_text(size = 13,face="bold"),
-        strip.text.x = element_text(size = 13, margin = margin(t = 0.7, b = 0.7, unit = "pt"),hjust = 0.5),
+  theme(axis.title.x = element_text(size = 11,face="bold"),
+        axis.text.x = element_text(size = 10,angle=45,vjust=1,hjust=1),
+        axis.title.y = element_text(size = 11,face="bold"),
+        axis.text.y = element_text(size=10),
+        strip.text = element_text(size = 11,face="bold"),
+        strip.text.x = element_text(size = 11, margin = margin(t = 0.7, b = 0.7, unit = "pt"),hjust = 0.5),
         strip.background = element_rect(fill = "white", colour = NA),
         legend.position = "")+
   scale_x_discrete(limits=c("Before Acclimation","Warm Acclimated (15d)","Cold Acclimated (15d)",
                             'Cold Acclimated (22d)','De-acclimated'),
-                   labels=c("Before Acc.","Warm Acc. (15d)","Cold Acc. (15d)",
-                            'Cold Acc. (22d)','De-acc.'))+
+                   labels=c("Before Acc.","Warm Acc. 15-d","Cold Acc. 15-d",
+                            'Cold Acc. 22-d','De-acc.22-d'))+
   facet_grid(cols = vars(diapause_treat),rows = vars(CS_treat))
 
 plot_CS_survival_scaled
 
 setwd("/Users/samsturiale/Documents/Georgetown/Armbruster Lab/Cold Tolerance/Figures/CS_survival/")
 ggsave("CS_survival_scaled.png",plot=plot_CS_survival_scaled,dpi=600,units='in',
-       width=5,height=7)
+       width=5.5,height=7)
 
 
 
