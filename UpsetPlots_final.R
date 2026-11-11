@@ -19,6 +19,9 @@ met_contrasts <- read.csv(file = "met_pairwise_contrasts_stats.csv")
 head(met_contrasts)
 
 lip_hg_contrasts <- read.csv(file = "lip_headgroup_pairwise_contrasts_stats.csv")
+## remove PEPCratio (no lipid summary variables included in upset plot)
+lip_hg_contrasts <- lip_hg_contrasts %>% 
+  filter(headgroup != "PEPCratio")
 head(lip_hg_contrasts)
 
 lip_fa_contrasts <- read.csv(file = "lip_fa_pairwise_contrasts_stats.csv")
