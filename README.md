@@ -1,3 +1,8 @@
+This repository contains all the data files, results tables, and R scripts needed to perform analyses and data visualization for the manuscript titled: Cold acclimation and diapause independently improve egg cold tolerance and act 1 through distinct mechanisms in the invasive mosquito Aedes albopictus
+
+Manuscript authors: Samantha L. Sturiale, Vladimír Košťál, Martin Moos, Nicholas M. Teets, Peter A. Armbruster
+
+Scripts written by corresponding author for the manuscript, Samantha L Sturiale.
 
 ## Cold shock survival
 Aedes albopictus eggs were exposed to two different diapause treatments (diapause and nondiapause) and five different acclimation treatments (before acclimation, warm acclimation-15d, cold acclimation-15d, de-acclimation-22d, cold acclimation-22d) in a full factorial manner. Then they were exposed to either no cold shock (control), a cold shock of -9C for 20hours, or a cold shock of -11C for 20 hours. Cold shock survival was measured as the proportion of each replicate (i.e., group of ~35 eggs) that hatched successfully.
