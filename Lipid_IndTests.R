@@ -1,6 +1,6 @@
 
 ### In this script, I will test for effects of diapause and cold acclimation on 
-# on the relative levels of individual phospholipid classes and fatty acyl methyl ester species using a planned set of five
+# on the relative levels of individual phospholipid classes and fatty acid methyl ester species using a planned set of five
 # pairwise comparisons. For metabolites with normally-distributed residuals,
 # I will do this using an lmer followed by pairwise t-tests using emmeans.
 # For species without normally-distributed residuals, I will run non-parametric
@@ -49,7 +49,7 @@ lipdata_parentalcageinfo <- lipdata_parentalcageinfo[c(1:36),c(1,2)]
 lipdata <- merge(lipdata,lipdata_parentalcageinfo,by="Label")
 lipdata$parental_cage_num <- as.character(lipdata$parental_cage_num)
 
-################### now read in fatty acyl data and compute summary variables
+################### now read in fatty acid data and compute summary variables
 setwd("~/Documents/Georgetown/Armbruster Lab/Cold Tolerance/Data Files for Submission")
 fa_data <- read.csv(file="FattyAcyls_molarprops_RawData.csv")
 head(fa_data)
