@@ -1,7 +1,5 @@
 This repository contains all the data files, results tables, and R scripts needed to perform analyses and data visualization for the manuscript titled: Cold acclimation and diapause independently improve egg cold tolerance and act through distinct mechanisms in the invasive mosquito Aedes albopictus
 
-Manuscript authors: Samantha L. Sturiale, Vladimír Košťál, Martin Moos, Nicholas M. Teets, Peter A. Armbruster
-
 Scripts written by corresponding author for the manuscript, Samantha L Sturiale.
 
 ## Cold shock survival
