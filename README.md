@@ -28,7 +28,7 @@ This is the list of metabolite abbreviations used in the script for data visuali
 This file contains information on the sample IDs, tube labels, diapause and acclimation treatments, and parental cage numbers for each metabolite and lipid sample: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/SampleInfo_Fall2024.csv)
 
 ## Lipid profile
-Phospholipid classes were quantified relatively and fatty acyl methyl ester species were quantified absolutely for six treatment groups: ND Before, ND Warm, ND Cold, D Before, D Warm, D Cold
+Phospholipid classes were quantified relatively and fatty acid methyl ester species were quantified absolutely for six treatment groups: ND Before, ND Warm, ND Cold, D Before, D Warm, D Cold
 
 The raw data file on phospholipid headgroup classes used for this analysis is here: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/PhospholipidClass_RawData.csv)
 
