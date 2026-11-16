@@ -1,6 +1,6 @@
 
 ###### In this script, I perform a separate PCA analysis on the phospholipid headgroup
-## classes as well as the fatty acyl methyl ester species
+## classes as well as the fatty acid methyl ester species
 
 # load packages
 library(naniar)
@@ -382,7 +382,7 @@ ggsave("lip_hg_pca_CSsurvival_plot.png",plot=lip_pca_cssurv_plot,
 
 ################################################################################################
 ################################################################################################
-# Now look at fatty acyl data
+# Now look at fatty acid data
 
 setwd("~/Documents/Georgetown/Armbruster Lab/Cold Tolerance/Data Files for Submission")
 fa_data <- read.csv(file="FattyAcyls_molarprops_RawData.csv")
@@ -398,7 +398,7 @@ fa_data$acc_treat[fa_data$acc_treat == 'COLD'] <- 'Cold Acclimated (15d)'
 fa_data$acc_treat <- factor(fa_data$acc_treat, levels=c('Before Acclimation','Warm Acclimated (15d)','Cold Acclimated (15d)'))
 fa_data$diapause_treat <- factor(fa_data$diapause_treat, levels=c('Non-diapause','Diapause'))
 
-## need to only keep columns with fatty acyl data in it
+## need to only keep columns with fatty acid data in it
 fa_data_onlylip<- fa_data[,c(6:23)] ## get rid of the ID and group columns
 
 
