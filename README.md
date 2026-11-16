@@ -13,7 +13,7 @@ The script used for statistical analyses, data summary, and data visualization i
 This data file contains the mean survival after -9C and -11C exposure for each diapause and acclimation treatment group (after scaling for control hatch rates for each group) : [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Intermediate_Data_Files/coldshocksurvival_scaledaverages.csv)
 
 ## Metabolite profile
-Metabolite profiles (i.e., relative levels of 50 metabolites of a priori interest) were generated for six treatment groups: ND Before, ND Warm, ND Cold, D Before, D Warm, D Cold by Vladimír Košťál and Martin Moos.
+Metabolite profiles (i.e., relative levels of 50 metabolites of a priori interest) were generated for six treatment groups: ND Before, ND Warm, ND Cold, D Before, D Warm, D Cold
 
 The raw data file used for this analysis is here: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/Metabolite_RawData.csv)
 
@@ -28,7 +28,7 @@ This is the list of metabolite abbreviations used in the script for data visuali
 This file contains information on the sample IDs, tube labels, diapause and acclimation treatments, and parental cage numbers for each metabolite and lipid sample: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/SampleInfo_Fall2024.csv)
 
 ## Lipid profile
-Phospholipid classes were quantified relatively and fatty acyl methyl ester species were quantified absolutely for six treatment groups: ND Before, ND Warm, ND Cold, D Before, D Warm, D Cold by Vladimír Košťál and Martin Moos.
+Phospholipid classes were quantified relatively and fatty acyl methyl ester species were quantified absolutely for six treatment groups: ND Before, ND Warm, ND Cold, D Before, D Warm, D Cold
 
 The raw data file on phospholipid headgroup classes used for this analysis is here: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/PhospholipidClass_RawData.csv)
 
