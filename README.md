@@ -4,7 +4,7 @@ This repository contains all the data files, results tables, and R scripts neede
 ## Cold shock survival
 Aedes albopictus eggs were exposed to two different diapause treatments (diapause and nondiapause) and five different acclimation treatments (before acclimation, warm acclimation-15d, cold acclimation-15d, de-acclimation-22d, cold acclimation-22d) in a full factorial manner. Then they were exposed to either no cold shock (control), a cold shock of -9C for 20hours, or a cold shock of -11C for 20 hours. Cold shock survival was measured as the proportion of each replicate (i.e., group of ~35 eggs) that hatched successfully.
 
-Diapause incidence was measured in a separate subset of eggs to ensure that diapause treatments worked as expected: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/DiapauseIncidenceCheck_finaldata.csv)
+Diapause incidence was measured in a separate subset of eggs to ensure that diapause treatments worked as expected: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/DiapauseIncidenceCheck_finaldata.csv). Mean and standard error of each treatment group was calculated using this script: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/DiapauseIncidence.R)
 
 The raw data file used for this analysis is here: [link](https://github.com/samstur/Albo_Cold_Mechanisms/blob/main/Raw_Data_Files/coldshocksurvival_finaldata.csv)
 
